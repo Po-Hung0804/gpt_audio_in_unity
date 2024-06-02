@@ -1,9 +1,8 @@
 # gpt_audio_in_unity
 ## Use the chatgpt and amazon polly in the Unity
-### Import the OpenAI-Unity package and download this project zip file
-1. open unity
-2. Go to Package Manager
-3. Use URL import  https://github.com/srcnalt/OpenAI-Unity.git this package
+### Download this project zip file and open this project
+1. extract this zip file
+2. open this project on the unity
 ### Create the openai api key and Amazon api key
 1. Go to https://beta.openai.com/account/api-keys and create the api key
 2. And go to https://aws.amazon.com amazon website
