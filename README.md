@@ -3,6 +3,7 @@
 ### Download this project zip file and open this project
 1. extract this zip file
 2. open this project on the unity
+3. Paste the repository URL https://github.com/srcnalt/OpenAI-Unity.git and click Add
 ### Create the openai api key and Amazon api key
 1. Go to https://beta.openai.com/account/api-keys and create the api key
 2. And go to https://aws.amazon.com amazon website
